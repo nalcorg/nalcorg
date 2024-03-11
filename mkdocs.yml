@@ -1,0 +1,11 @@
+site_name: NALC Application Documentation
+site_url: https://nalcorg.github.io
+site_author: you
+site_description: All documentation for NALC's applications
+nav:
+  - About: index.md
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
