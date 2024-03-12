@@ -4,6 +4,8 @@ site_author: you
 site_description: All documentation for NALC's applications
 nav:
   - About: index.md
+  - Correspondence: correspondence.md
+  # - By-Laws: bylaws.md
 theme:
   name: readthedocs
   highlightjs: true
