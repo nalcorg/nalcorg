@@ -1,0 +1,17 @@
+site_name: NALC Application Documentation
+site_url: https://nalcorg.github.io
+site_author: you
+site_description: All documentation for NALC's applications
+nav:
+  - Home: index.md
+  - Correspondence: correspondence.md
+  # - By-Laws: bylaws.md
+theme:
+  name: material
+  highlightjs: true
+  hljs_languages:
+    - yaml
+markdown_extensions:
+  - attr_list
+extra_css:
+  - stylesheets/extra.css

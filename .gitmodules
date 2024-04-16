@@ -1,0 +1,4 @@
+[submodule "nalcorg.github.io"]
+	path = nalcorg.github.io
+	url = https://github.com/nalcorg/nalcorg.github.io.git
+	branch = main
