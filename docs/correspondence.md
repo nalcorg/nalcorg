@@ -227,13 +227,13 @@ Click the right arrow to proceed to Attachments
 
 Here on the Attachments page, you must add an attachment before you can send this Correspondence to the Executive -- to do so, click "Attach file" on the right side of the screen
 
-<kbd>![add-attachment](img/NALC/Assignee/12.png)</kbd>
+<kbd>![add-attachment](img/NALC/Assignee/8.png)</kbd>
 
 You can now see the file explorer of your local PC -- click on the file of your choice that you would like to attach to this Correspondence, and click the Open button to attach this file
 
 Next, you must select the date that you would like to associate with this attachment -- after you've selected a date, you can click the Upload Attachments button, or you can remove the attachment but clicking the Remove Attachments button if you've made a mistake
 
-<kbd>![review-correspondence-attachments](img/NALC/Assignee/14.png)</kbd>
+<kbd>![review-correspondence-attachments](img/NALC/Assignee/9.png)</kbd>
 
 You can now see your attachment for your Correspondence, and, if necessary, you can repeat the above steps to attach another document -- otherwise, click the Right arrow to proceed to Item History
 
@@ -268,7 +268,7 @@ On the Attachments page, you can see your previously uploaded attachments
 
 To respond to the Executive's feedback, you can attach a new file by clicking on "Attach file" on the right side of the screen
 
-<kbd>![add-attachment](img/NALC/Assignee/12.png)</kbd>
+<kbd>![add-attachment](img/NALC/Assignee/8.png)</kbd>
 
 You can now see the file explorer of your local PC -- click on the file of your choice that you would like to attach to this Correspondence, and click the Open button to attach this file
 
@@ -534,7 +534,7 @@ Click the right arrow to proceed to Attachments
 
 Here on the Attachments page, you must add an attachment before you can send this Correspondence to the Executive -- to do so, click "Attach file" on the right side of the screen
 
-<kbd>![add-attachment](img/NALC/Assignee/12.png)</kbd>
+<kbd>![add-attachment](img/NALC/Assignee/8.png)</kbd>
 
 You can now see the file explorer of your local PC -- click on the file of your choice that you would like to attach to this Correspondence, and click the Open button to attach this file
 
@@ -575,18 +575,18 @@ On the Attachments page, you can see your previously uploaded attachments
 
 To respond to the Executive's feedback, you can attach a new file by clicking on "Attach file" on the right side of the screen
 
-<kbd>![add-attachment](img/NALC/Assignee/12.png)</kbd>
+<kbd>![add-attachment](img/NALC/Assignee/8.png)</kbd>
 
 You can now see the file explorer of your local PC -- click on the file of your choice that you would like to attach to this Correspondence, and click the Open button to attach this file
 
 Next, you must select the date that you would like to associate with this attachment -- after you've selected a date, you can click the Upload Attachments button, or you can remove the attachment but clicking the Remove Attachments button if you've made a mistake
 
-### Review Item History
+<!-- ### Review Item History
 <kbd>![review-item-history](img/USPS/Assignee/Returned/8.png)</kbd>
 
 On the Item History page, you can see your previous events, including the Attachment that was just added as a response to the Executive's comments
 
-Ensure that your event is visible at the top of the list, and once this is confirmed, you can click the airplane icon at the bottom of the page to return this Correspondence to the Executive for final processing
+Ensure that your event is visible at the top of the list, and once this is confirmed, you can click the airplane icon at the bottom of the page to return this Correspondence to the Executive for final processing -->
 
 ## USPS Correspondence -- Executive
 ### Select Correspondence to Review
@@ -680,14 +680,14 @@ Here you can review all events associated with this Correspondence
 
 If you are satisfied with all changes, you can navigate back to the Details page by clicking on the Correspondence Details link on the left side of the page
 
-<kbd>![executive-comments](img/USPS/Executive/Returned/7.png)</kbd>
+<kbd>![executive-comments](img/USPS/Executive/Returned/4.png)</kbd>
 
 Here you can enter a final comment that will close this Correspondence
 
-<kbd>![close-button](img/USPS/Executive/Returned/8.png)</kbd>
+<kbd>![close-button](img/USPS/Executive/Returned/5.png)</kbd>
 
 You can now click the page icon with the checkmark to complete and finalize this Correspondence
 
-<kbd>![main-screen](img/USPS/Executive/Returned/9.png)</kbd>
+<kbd>![main-screen](img/USPS/Executive/Returned/6.png)</kbd>
 
 Back on the main screen, you can see your close and finalized Correspondence, with a Status of Close with a closed date
