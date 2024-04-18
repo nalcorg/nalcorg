@@ -9,12 +9,14 @@ To begin, click on the "+ New" button
 ### Enter Correspondence Details
 <kbd>![enter-correspondence-details](img/NALC/New/1.png)</kbd>
 
-Here you can see the Correspondence Details form page, with textboxes for Subject and Issue, a dropdown for Category, and date pickers for Received, Letter Dated, and Deadline dates
+Here you can see the Correspondence Details form page, with text boxes for Subject and Issue, a dropdown for Category, and date pickers for Received, Letter Dated, and Deadline dates
 
 ### Select Assignee(s)
 <kbd>![select-assignees](img/NALC/New/2.png)</kbd><br />
 
 There is also a picker for Assignees -- you can begin typing the name of the Assignee and their name will appear -- select their name to assign them to this Correspondence, and add as many Assignees as necessary
+
+NOTE: Be sure to click the checkbox, as this is how to add an Assignee to your new Correspondence -- failing to do so will create a Correspondence without an attached Assignee
 
 <kbd>![save-progress](img/NALC/New/3.png)</kbd>
 
@@ -25,7 +27,7 @@ Note: a new NALC Correspondence ID will be created once you click the next arrow
 ### Sender Information
 <kbd>![sender-information1](img/NALC/New/4.png)</kbd>
 
-Here you can see the Sender Information form page, with textboxes for Sender Name, Street Address, City, State, Zipcode, and Branch
+Here you can see the Sender Information form page, with text boxes for Sender Name, Street Address, City, State, Zipcode, and Branch
 
 <kbd>![sender-information2](img/NALC/New/5.png)</kbd>
 
@@ -72,7 +74,7 @@ To delete a linked Correspondence, click the Remove icon, and you will see this 
 ### Attachments
 <kbd>![attachments1](img/NALC/New/16.png)</kbd>
 
-Here you can see the page for adding Attachments to your new Correspondence -- click the paperclip/Attach file to Word or PDF files
+Here you can see the page for adding Attachments to your new Correspondence -- click the paperclip/Attach file to attach Word or PDF files
 
 <kbd>![attachments2](img/NALC/New/17.png)</kbd>
 
@@ -100,7 +102,7 @@ To view your upload in SharePoint, you can click on the blue folder icon in the 
 
 <kbd>![attachments10](img/NALC/New/23.png)</kbd>
 
-To view your upload in SharePoint, you can click on the blue folder icon in the top left corner (near the Title and Attachment Date of your attachment)
+Here you can view all uploaded files in SharePoint associated with this Correspondence, and you can also delete files in this location
 
 ### Item History
 <kbd>![item-history](img/NALC/New/25.png)</kbd>
@@ -128,7 +130,7 @@ Here you can see all the fields populated with data for the Sender: Name, Addres
 ### Edit Actions
 <kbd>![edit-actions](img/NALC/Edit/3.png)</kbd>
 
-Here you can see all of the Actions that were created for this Correspondence -- you can click on the Action and view its details on the right side (where you can update the details or the Action date), you can add a new Action by clicking on the '+' icon in the top right, or you can delete an Action by clicking the remove icon
+Here you can see any Actions that were created for this Correspondence -- you can click on the Action and view its details on the right side (where you can update the details or the Action date), you can add a new Action by clicking on the '+' icon in the top right, or you can delete an Action by clicking the remove icon
 
 ### Edit Linked Correspondences
 <kbd>![edit-linked-correspondences](img/NALC/Edit/7.png)</kbd>
@@ -143,7 +145,7 @@ Here you can see any files that were attached to this Correspondence -- you can 
 ### Item History Edits
 <kbd>![edit-item-history](img/NALC/Edit/9.png)</kbd>
 
-Here you can the original item history as well as any additional edits made to this Correspondence
+Here you can view the item history as well as any additional edits made to this Correspondence
 
 ## Presidential Rulings
 ### Create New Presidential Ruling
@@ -156,17 +158,17 @@ To begin, from inside the Correspondence of your choice you can click on the Gav
 ### Presidential Ruling Details
 <kbd>![presidential-ruling-details](img/NALC/PresRuling/1.png)</kbd>
 
-Here you can see the entry screen for creating your Presidential Ruling, with textboxes for the Issue, Requesting Individual, Requesting Organization, and Formatted Ruling, as well as a date picker for the Signed Date
+Here you can see the entry screen for creating your Presidential Ruling, with text boxes for the Issue, Requesting Individual, Requesting Organization, and Formatted Ruling, as well as a date picker for the Signed Date
 
 ### View/Add Hooks
 <kbd>![presidential-ruling-add-hooks](img/NALC/PresRuling/2.png)</kbd>
 
-To add a new or view a hook, click on the green View/Add Hooks button -- here you can see the list of previously created Hook (if any) -- to create a new hook, click the Create New Hook button
+To add a new or view a hook, click on the green View/Add Hooks button -- here you can see the list of previously created Hooks (if any) -- to create a new Hook, click the Create New Hook button
 
 ### New Hook Details
 <kbd>![presidential-ruling-hook-details1](img/NALC/PresRuling/3.png)</kbd>
 
-To add details for your hook, select a Category from the drop down and Hook Levels 1-3 in the textboxes
+To add details for your hook, select a Category from the drop down and enter details for Hook Levels 1-3 in the text boxes
 
 NOTE: the Hook Name will self-populate based on the descriptions entered for Hook Levels 1-3
 
@@ -191,39 +193,39 @@ To begin, double click on the row of the Correspondence that you would like to r
 NOTE: You can limit the display of Correspondences in your main list by clicking on the "View Less" button at the top, just below the banner -- additionally, you can search for the Correspondence that you'd like to edit by typing in the ID in the search bar, or you can search by Category, Subject, etc.
 
 ### Review Correspondence Details
-<kbd>![review-correspondence-details](img/NALC/Assignee/3.png)</kbd>
+<kbd>![review-correspondence-details](img/NALC/Assignee/2.png)</kbd>
 
 Here on the Details page, you can review all the fields: Subject, Category, Type, Received Date, Letter Dated, Deadline, Issue, and other Assignees, if applicable
 
 To process your Correspondence, the first of two required steps is to select a Sent Date -- the second is to upload an attachment
 
-<kbd>![sent-date](img/NALC/Assignee/4.png)</kbd>
+<kbd>![sent-date](img/NALC/Assignee/3.png)</kbd>
 
 You can select a Sent Date by clicking in the date box and selecting a date from the date-picker -- click OK to continue
 
 ### Review Sender Information
-<kbd>![review-sender-information](img/NALC/Assignee/6.png)</kbd>
+<kbd>![review-sender-information](img/NALC/Assignee/4.png)</kbd>
 
 Here on the Sender Information page, you can review all the fields to check for accuracy: Sender Name, Street Address, City, State, Zipcode, and Branch
 
 Click the right arrow to proceed to the Actions
 
 ### Review Correspondence Actions
-<kbd>![review-correspondence-actions](img/NALC/Assignee/8.png)</kbd>
+<kbd>![review-correspondence-actions](img/NALC/Assignee/5.png)</kbd>
 
 Here on the Actions page, you can review any previously added Actions and their added dates
 
 Click the right arrow to proceed to Linked Correspondences
 
 ### Review Linked Correspondence
-<kbd>![review-linked-correspondence](img/NALC/Assignee/9.png)</kbd>
+<kbd>![review-linked-correspondence](img/NALC/Assignee/6.png)</kbd>
 
 Here on the Linked Correspondences page, you can review any previously linked Correspondences and their linked dates
 
 Click the right arrow to proceed to Attachments
 
 ### Review Correspondence Attachments
-<kbd>![review-correspondence-attachments](img/NALC/Assignee/10.png)</kbd>
+<kbd>![review-correspondence-attachments](img/NALC/Assignee/7.png)</kbd>
 
 Here on the Attachments page, you must add an attachment before you can send this Correspondence to the Executive -- to do so, click "Attach file" on the right side of the screen
 
@@ -231,7 +233,7 @@ Here on the Attachments page, you must add an attachment before you can send thi
 
 You can now see the file explorer of your local PC -- click on the file of your choice that you would like to attach to this Correspondence, and click the Open button to attach this file
 
-Next, you must select the date that you would like to associate with this attachment -- after you've selected a date, you can click the Upload Attachments button, or you can remove the attachment but clicking the Remove Attachments button if you've made a mistake
+Next, you must select the date that you would like to associate with this attachment -- after you've selected a date, you can click the Upload Attachments button, or you can remove the attachment by clicking the Remove Attachments button if you've made a mistake
 
 <kbd>![review-correspondence-attachments](img/NALC/Assignee/9.png)</kbd>
 
@@ -255,14 +257,14 @@ To begin, find the Correspondence that was returned to you from the Executive as
 Double click on the row of the Correspondence that you would like to review
 
 ### View Executive Comments
-<kbd>![view-executive-comments](img/NALC/Assignee/Returned/1.png)</kbd>
+<kbd>![view-executive-comments](img/NALC/Assignee/Returned/2.png)</kbd>
 
 Here you can see the Correspondence Details, as well as the Executive comments -- these comments should include instructions about why this Correspondence has been returned to you
 
 You can skip to the Attachments page to upload your response to the Executive by clicking on the Attachments link on the left side of the page
 
 ### Upload Response Attachment(s)
-<kbd>![upload-response-attachment](img/NALC/Assignee/Returned/2.png)</kbd>
+<kbd>![upload-response-attachment](img/NALC/Assignee/Returned/3.png)</kbd>
 
 On the Attachments page, you can see your previously uploaded attachments
 
@@ -272,10 +274,10 @@ To respond to the Executive's feedback, you can attach a new file by clicking on
 
 You can now see the file explorer of your local PC -- click on the file of your choice that you would like to attach to this Correspondence, and click the Open button to attach this file
 
-Next, you must select the date that you would like to associate with this attachment -- after you've selected a date, you can click the Upload Attachments button, or you can remove the attachment but clicking the Remove Attachments button if you've made a mistake
+Next, you must select the date that you would like to associate with this attachment -- after you've selected a date, you can click the Upload Attachments button, or you can remove the attachment by clicking the Remove Attachments button if you've made a mistake
 
 ### Review Item History
-<kbd>![review-item-history](img/NALC/Assignee/Returned/3.png)</kbd>
+<kbd>![review-item-history](img/NALC/Assignee/Returned/6.png)</kbd>
 
 You can click the airplane icon at the bottom of the page to return this Correspondence to the Executive for final processing
 
@@ -290,18 +292,18 @@ Double click on the row of the Correspondence that you would like to review
 ### Review Correspondence Details
 <kbd>![review-correspondence-details](img/NALC/Executive/2.png)</kbd>
 
-Here you can see the Correspondence Details form page, with textboxes for Subject and Issue, a dropdown for Category, and date pickers for Received, Letter Dated, and Deadline dates
+Here you can see the Correspondence Details form page, with text boxes for Subject and Issue, a dropdown for Category, and date pickers for Received, Letter Dated, and Deadline dates
 
 You can also see the Executive Comments box -- here, you can enter feedback and instructions if you would like to return this Correspondence to the Assignee for further processing -- you can return to this screen at a later time to enter comments, if necessary
 
-To further review this Correspondence, click the right arrow to progress to Actions
+To further review this Correspondence, click the right arrow to progress to Sender Information
 
 ### Review Sender Information
 <kbd>![review-sender-information](img/NALC/Executive/3.png)</kbd>
 
 Here you can see the fields for the Sender: Sender Name, Street Address, City, State, Zipcode, and Branch
 
-Click the right arrow to progress to Linked Correspondences
+Click the right arrow to progress to Actions
 
 ### Review Correspondence Actions
 <kbd>![review-actions](img/NALC/Executive/4.png)</kbd>
@@ -344,14 +346,14 @@ Click the airplane icon to send this Correspondence back to the Assignee for fur
 To begin, find the Correspondence that was returned to you from the Assignee, and double click on it to review the most recent changes
 
 ### Review Correspondence Details
-<kbd>![review-correspondence-details](img/NALC/Executive/Returned/1.png)</kbd>
+<kbd>![review-correspondence-details](img/NALC/Executive/Returned/2.png)</kbd>
 
 Here you can review all Correspondence Details, including your previously entered Executive Comments
 
 You can skip to where the Assignee has responded to your comments by navigating to the Attachments section found on the left side of the page
 
 ### Review Attachments
-<kbd>![review-attachments](img/NALC/Executive/Returned/2.png)</kbd>
+<kbd>![review-attachments](img/NALC/Executive/Returned/3.png)</kbd>
 
 Here you can review all attachments associated with this Correspondence, including the most recent addition, sent from the Assignee in response to this returned Correspondence
 
@@ -359,15 +361,15 @@ To view the most recent attachment, find the most recent Attachment Date, and cl
 
 Click the right arrow to progress to Item History
 
-<kbd>![executive-comments](img/NALC/Executive/Returned/3.png)</kbd>
+<kbd>![executive-comments](img/NALC/Executive/Returned/4.png)</kbd>
 
 You can navigate back to the Correspondence details page and enter a final Executive comment that communicates that the prior issue is resolved and this Correspondence is now closed
 
 You can click the document icon with the checkmark to finish and finalize this Correspondence
 
-<kbd>![main-screen](img/NALC/Executive/Returned/4.png)</kbd>
+<kbd>![main-screen](img/NALC/Executive/Returned/5.png)</kbd>
 
-Back on the main screen, you can see your close and finalized Correspondence, with a Status of Close with a closed date
+Back on the main screen, you can see your finalized Correspondence, with a Status of Closed with a closed date
 
 ## New USPS Correspondence
 ### Create New Correspondence
@@ -378,18 +380,20 @@ To begin, click on the "+ New" button
 ### Enter Correspondence Details
 <kbd>![enter-correspondence-details](img/USPS/New/2.png)</kbd>
 
-Here you can see the Correspondence Details form page, with textboxes for Subject and Issue, a dropdown for Category, and date pickers for Received, Letter Dated, and Deadline dates
+Here you can see the Correspondence Details form page, with text boxes for Subject and Issue, a dropdown for Category, and date pickers for Received, Letter Dated, and Deadline dates
 
 ### Select Assignee(s)
 <kbd>![select-assignees](img/USPS/New/4.png)</kbd><br />
 
 There is also a picker for Assignees -- you can begin typing the name of the Assignee and their name will appear -- select their name to assign them to this Correspondence, and add as many Assignees as necessary
 
+NOTE: Be sure to click the checkbox, as this is how to add an Assignee to your new Correspondence -- failing to do so will create a Correspondence without an attached Assignee
+
 <kbd>![save-progress](img/USPS/New/7.png)</kbd>
 
 After entering all of your text and selecting the Category, dates, and Assignee, you can click on the right arrow (or click on Sender Information on the left side) to progress to Sender Information<br />
 
-Note: a new NALC Correspondence ID will be created once you click the next arrow or on Sender Information -- until this point, an ID has not been created and your text and selections have not been saved, but your text and selections in Correspondence Details will be saved when you progress to Sender Information
+NOTE: a new USPS Correspondence ID will be created once you click the next arrow or on Sender Information -- until this point, an ID has not been created and your text and selections have not been saved, but your text and selections in Correspondence Details will be saved when you progress to Sender Information
 
 ### Actions
 <kbd>![actions1](img/USPS/New/8.png)</kbd>
@@ -432,7 +436,7 @@ To delete a linked Correspondence, click the Remove icon, and you will see this 
 ### Attachments
 <kbd>![attachments1](img/USPS/New/20.png)</kbd>
 
-Here you can see the page for adding Attachments to your new Correspondence -- click the paperclip/Attach file to Word or PDF files
+Here you can see the page for adding Attachments to your new Correspondence -- click the paperclip/Attach file to attach Word or PDF files
 
 <kbd>![attachments2](img/USPS/New/22.png)</kbd>
 
@@ -460,7 +464,7 @@ To view your upload in SharePoint, you can click on the blue folder icon in the 
 
 <kbd>![attachments10](img/USPS/New/28.png)</kbd>
 
-Here you see in SharePoint all files that are associated with your Correspondence
+Here you can view all uploaded files in SharePoint associated with this Correspondence, and you can also delete files in this location
 
 ### Item History
 <kbd>![item-history](img/USPS/New/30.png)</kbd>
@@ -476,14 +480,14 @@ To begin, double click on the row of the Correspondence that you would like to e
 NOTE: You can search for the Correspondence that you'd like to edit by typing in the ID in the search bar, or you can search by Category, Subject, etc.
 
 ### Edit Correspondence Details
-<kbd>![edit-correspondence-details](img/USPS/Edit/1.png)</kbd>
+<kbd>![edit-correspondence-details](img/USPS/Edit/2.png)</kbd>
 
 Here you can see all the fields populated with data for the Correspondence that you're editing -- begin typing in the Subject or Issue text boxes to update the data, select a new Category from the drop-down, change the dates from the date pickers, or search for and add a new Assignee -- click the next arrow to save and continue editing, or the "Disk" icon to save and exit
 
 ### Edit Actions
 <kbd>![edit-actions](img/USPS/Edit/3.png)</kbd>
 
-Here you can see all of the Actions that were created for this Correspondence -- you can click on the Action and view its details on the right side (where you can update the details or the Action date), you can add a new Action by clicking on the '+' icon in the top right, or you can delete an Action by clicking the remove icon
+Here you can see any Actions that were created for this Correspondence -- you can click on the Action and view its details on the right side (where you can update the details or the Action date), you can add a new Action by clicking on the '+' icon in the top right, or you can delete an Action by clicking the remove icon
 
 ### Edit Linked Correspondences
 <kbd>![edit-linked-correspondences](img/USPS/Edit/4.png)</kbd>
@@ -498,7 +502,7 @@ Here you can see any files that were attached to this Correspondence -- you can 
 ### Item History Edits
 <kbd>![edit-item-history](img/USPS/Edit/6.png)</kbd>
 
-Here you can the original item history as well as any additional edits made to this Correspondence
+Here you can view the item history as well as any additional edits made to this Correspondence
 
 ## USPS Correspondence -- Assignee
 ### Select Correspondence to Review
@@ -538,7 +542,7 @@ Here on the Attachments page, you must add an attachment before you can send thi
 
 You can now see the file explorer of your local PC -- click on the file of your choice that you would like to attach to this Correspondence, and click the Open button to attach this file
 
-Next, you must select the date that you would like to associate with this attachment -- after you've selected a date, you can click the Upload Attachments button, or you can remove the attachment but clicking the Remove Attachments button if you've made a mistake
+Next, you must select the date that you would like to associate with this attachment -- after you've selected a date, you can click the Upload Attachments button, or you can remove the attachment by clicking the Remove Attachments button if you've made a mistake
 
 <kbd>![review-correspondence-attachments](img/USPS/Assignee/7.png)</kbd>
 
@@ -579,7 +583,7 @@ To respond to the Executive's feedback, you can attach a new file by clicking on
 
 You can now see the file explorer of your local PC -- click on the file of your choice that you would like to attach to this Correspondence, and click the Open button to attach this file
 
-Next, you must select the date that you would like to associate with this attachment -- after you've selected a date, you can click the Upload Attachments button, or you can remove the attachment but clicking the Remove Attachments button if you've made a mistake
+Next, you must select the date that you would like to associate with this attachment -- after you've selected a date, you can click the Upload Attachments button, or you can remove the attachment by clicking the Remove Attachments button if you've made a mistake
 
 <!-- ### Review Item History
 <kbd>![review-item-history](img/USPS/Assignee/Returned/8.png)</kbd>
@@ -599,7 +603,7 @@ Double click on the row of the Correspondence that you would like to review
 ### Review Correspondence Details
 <kbd>![review-correspondence-details](img/USPS/Executive/2.png)</kbd>
 
-Here you can see the Correspondence Details form page, with textboxes for Subject and Issue, a dropdown for Category, and date pickers for Received, Letter Dated, and Deadline dates
+Here you can see the Correspondence Details form page, with text boxes for Subject and Issue, a dropdown for Category, and date pickers for Received, Letter Dated, and Deadline dates
 
 You can also see the Executive Comments box -- here, you can enter feedback and instructions if you would like to return this Correspondence to the Assignee for further processing -- you can return to this screen at a later time to enter comments, if necessary
 
@@ -650,7 +654,7 @@ Here you can review all Correspondence Details, including your previously entere
 
 Click the right arrow to progress to Actions
 
-### Review Correspondence Actions
+<!-- ### Review Correspondence Actions
 <kbd>![review-correspondence-actions](img/USPS/Executive/Returned/3.png)</kbd>
 
 Here you can review all Correspondence Actions
@@ -662,10 +666,10 @@ Click the right arrow to progress to Linked Correspondences
 
 Here you can review all Linked Correspondences
 
-Click the right arrow to progress to Attachments
+Click the right arrow to progress to Attachments -->
 
 ### Review Attachments
-<kbd>![review-attachments](img/USPS/Executive/Returned/5.png)</kbd>
+<kbd>![review-attachments](img/USPS/Executive/Returned/3.png)</kbd>
 
 Here you can review all attachments associated with this Correspondence, including the most recent addition, sent from the Assignee in response to this returned Correspondence
 
@@ -673,12 +677,12 @@ To view the most recent attachment, find the most recent Attachment Date, and cl
 
 Click the right arrow to progress to Item History
 
-### Review Item History
+<!-- ### Review Item History
 <kbd>![review-item-history](img/USPS/Executive/Returned/6.png)</kbd>
 
 Here you can review all events associated with this Correspondence
 
-If you are satisfied with all changes, you can navigate back to the Details page by clicking on the Correspondence Details link on the left side of the page
+If you are satisfied with all changes, you can navigate back to the Details page by clicking on the Correspondence Details link on the left side of the page -->
 
 <kbd>![executive-comments](img/USPS/Executive/Returned/4.png)</kbd>
 
