@@ -695,3 +695,22 @@ You can now click the page icon with the checkmark to complete and finalize this
 <kbd>![main-screen](img/USPS/Executive/Returned/6.png)</kbd>
 
 Back on the main screen, you can see your close and finalized Correspondence, with a Status of Close with a closed date
+
+## Search for USPS/NALC Officer Correspondence Documents on SharePoint
+### Search for Correspondence
+
+<kbd>![executive-comments](img/SharePointPDFs/1.png)</kbd>
+
+To begin, you can search for a Correspondence of your choice by using the Search bar at the top of the page and typing in the ID of your choice and pressing Enter
+
+### View Search Results
+
+<kbd>![executive-comments](img/SharePointPDFs/2.png)</kbd>
+
+Here you can see all of the results of your search -- you can see the folder of the ID that you searched for, as well as specific documents with the value of the ID you search for
+
+### View Search Results
+
+<kbd>![executive-comments](img/SharePointPDFs/3.png)</kbd>
+
+You can also search for specific phrases in the Search bar, such as "Mobile Delivery Device", and you will see the results of all files that contain this phrase
